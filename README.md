@@ -6,3 +6,6 @@ Autoit
 
 
 Cucmber and BDD
+
+Selenium
+POM
